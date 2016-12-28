@@ -1,0 +1,6 @@
+# a typical install dir
+*Dwarf Fortress*/
+df_*/
+
+# outputs
+*.json
